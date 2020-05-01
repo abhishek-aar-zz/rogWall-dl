@@ -23,10 +23,11 @@ pip install beautifulsoup4
 pip install tqdm
 pip install urllib3
 ```
-##Usage
+## Usage
 1. Download the files as it is [clone].
-2. Just run the python file on your computer using any IDE.
-A new folder will be created in the same directory where you have your python file.
-Inside this folder, there you have your downloaded wallpapers.
+2. Just run the python file on your computer using any IDE.<br><br>
+A new folder will be created in the same directory where you have your python file.Inside this folder, there you have your downloaded wallpapers.
+<br>
+If you want to change the resoluion from best available to least available, change maxx to minn in the line#72
 
-If you want to change the resoluion from best available to least available, change max to min in the line#
+#### Thank You
