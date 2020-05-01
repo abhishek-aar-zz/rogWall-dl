@@ -25,7 +25,8 @@ pip install urllib3
 ```
 ## Usage
 1. Download the files as it is [clone].
-2. Just run the python file on your computer using any IDE.<br><br>
+2. Just run the python file on your computer using any IDE.
+<br>
 A new folder will be created in the same directory where you have your python file.Inside this folder, there you have your downloaded wallpapers.
 <br>
 If you want to change the resoluion from best available to least available, change maxx to minn in the line#72
