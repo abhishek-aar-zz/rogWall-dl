@@ -15,7 +15,7 @@ Since python is one of the programming languages which is very popular and very 
 
 ## Prerequisite
 Firstly you need python in your computer.<br>
-Download these modules: requests, Beautifulsoup, tqdm, urllibs<br>
+Download these modules: [requests](https://pypi.org/project/requests/), [Beautifulsoup](https://pypi.org/project/bs4/), [tqdm](https://pypi.org/project/tqdm/), [urllibs](https://pypi.org/project/urllib3/)<br>
 Run the given commands on windows command-line. This instruction is particularly for Windows user. If you use any other machine, please see the documentations of the following modules.
 ```Python
 pip install requests
